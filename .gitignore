@@ -1,0 +1,13 @@
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Very large trained MATLAB models
+Feature Descriptor - Gabor/Classifier - MLP/Gabor_MLP_15000Neurons_30Epochs.mat
+Feature Descriptor - Gabor/Classifier - KNN/Gabor_KNN.mat
+Feature Descriptor - Full Image/Classifier - MLP/FullImage_MLP_15000Neurons_30Epochs.mat
+
+# Broken generated classifier models
+Feature Descriptor - Gabor/Classifier - AdaBoost/Gabor_AdaBoost_BROKEN.mat
+Feature Descriptor - Gabor/Classifier - Random Forest/Gabor_RF_BROKEN.mat
+Feature Descriptor - Gabor/Classifier - Standalone Decision Tree/Gabor_StandaloneDecisionTree_BROKEN.mat
